@@ -1,0 +1,14 @@
+﻿* {
+    box-sizing: border-box;
+	float: left;
+	margin:10px;
+}
+body{
+	margin:5px;
+}
+h1{
+	font-family:"Courier";
+	width:100%;
+	text-align: center;
+}
+
